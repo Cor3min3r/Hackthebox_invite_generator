@@ -1,7 +1,7 @@
 # Hackthebox_invite_generator
 A simple python script to Generate HacktheBox invite code
 
-`Usage: 
+ Usage: 
  
- pip install -r requirements.txt
- python invite.py`
+`pip install -r requirements.txt`
+`python invite.py`
